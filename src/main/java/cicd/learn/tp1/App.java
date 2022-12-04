@@ -10,5 +10,6 @@ public class App {
         System.out.println("CI/CD rocks feature 2 commit final!");
         System.out.println("CI/CD rocks feature 3 commit final!");
         System.out.println("CI/CD rocks feature 4 commit final!");
+        System.out.println("CI/CD rocks feature 4 commit final!");
     }
 }
